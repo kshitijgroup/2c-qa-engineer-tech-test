@@ -62,7 +62,7 @@ I created a dedicated `booksData.ts` file containing the canonical list of defau
 
 This file:
 
-- Ensures consistent validation across UI + API  
+- Ensures consistent validation across UI + API + Mobile  
 - Allows matching each book by **title** (mandatory and unique field)
 
 ---
